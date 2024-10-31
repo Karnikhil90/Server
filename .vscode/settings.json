@@ -1,5 +1,11 @@
 {
     "files.associations": {
-        "gpio.h": "c"
+        "gpio.h": "c",
+        "esp_log.h": "c",
+        "spi_common.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "sd_card_module.h": "c",
+        "esp_vfs_fat.h": "c"
     }
 }
